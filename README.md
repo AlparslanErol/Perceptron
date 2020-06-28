@@ -1,7 +1,5 @@
 # Perceptron
 
-### Summer Term 2019/
-
 ## 1 Perceptron
 
 ```
